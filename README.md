@@ -1,6 +1,6 @@
 # ShopHub-Ecommerce-website
 ShopHub.com E-commerce website
-![Website](https://devil-panda.github.io/ShopHub-Ecommerce-website/)
+Website Link: https://devil-panda.github.io/ShopHub-Ecommerce-website/
 
 # Screenshots!
 ![home](https://cdn.discordapp.com/attachments/966736027563733092/1115407594459254825/image.png)
